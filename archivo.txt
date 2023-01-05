@@ -1,1 +1,3 @@
 el chanchito feliz.
+error len errores en el codigo
+code spell checker ortografia en el codigo
